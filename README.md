@@ -1,4 +1,4 @@
-### Hi there 👋 my name Ana Carolina
+### Hi there 👋 my name is Ana Carolina
 
 I'm a full-stack programming student at Senai.
 
